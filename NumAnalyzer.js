@@ -1,8 +1,8 @@
-"use strict"; // I use this  mode to avoid bugs on a non-declared variable
 
-// the main function that performs the analysis on the given number.
+
+// the main func:
 function numberAnalyzer(num) {
-  let results = []; // Array to store our output strings.
+  let results = []; // this array store our output strings.
 
   try {
 		// this if statement use for checking invalid input
